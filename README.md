@@ -1,5 +1,5 @@
-Serbo-Croatian technical highschool Student
-Programming here in there, mostly Gaming
+Serbo-Croatian technical highschool Student. 
+Programming here in there, mostly Gaming. 
 Also working with programs MultiSim and EAGLE in school
 
 <!---
